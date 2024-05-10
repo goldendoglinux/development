@@ -1,0 +1,14 @@
+### Notes for Developers
+
+GoldenDog Linux is built on a debian 12 stable platform. 
+You can develop for GDL on a GDL or a Debian 12.
+
+You need to clone the branch stable of the distro repository and send merge requests to the staging branch only.
+
+## BEFORE YOU CONTRIBUTE:
+
+You need to sign the contributor agreement. 
+
+You can read the contributor agreement in this repository file is called "agreement.md"
+
+Thanks!
